@@ -1,5 +1,6 @@
-### Hi there 👋
+배움을 즐기는 백엔드 개발자 **전수향**입니다. 🧑‍💻
 
+[📄 포트폴리오](https://www.notion.so/313f60b5a2d14a04923130d631a0254f)
 <!--
 **soohyang136/soohyang136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
